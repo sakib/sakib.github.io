@@ -1,6 +1,6 @@
 ## Personal Website
 
-I wanted this to be less of a rehash of my resume and more of a glimpse into my life,
+I wanted this to be less so a resume and more so a glimpse into my life,
 what I care about, my principles, and my lights.
 
 
