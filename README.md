@@ -3,10 +3,6 @@
 I wanted this to be less so a resume and more so a glimpse into my life,
 what I care about, my principles, and my lights.
 
-## To Do
-
-Incorporate last line of https://www.poetryfoundation.org/poems/89897/good-bones
-
 ## License
 
 Strata by HTML5 UP
