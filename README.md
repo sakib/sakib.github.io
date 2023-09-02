@@ -1,7 +1,7 @@
 ## Personal Website
 
-I wanted this to be less so a resume and more so a glimpse into my life,
-what I care about, my principles, and my lights.
+I wanted this to be less of a resume and more of a record of my life,
+my passions, my principles, etc.
 
 ## License
 
